@@ -2,7 +2,6 @@ Permite a los usuarios gestionar, organizar y realizar el seguimiento de sus tar
 
 📊 Análisis de la Estructura del Proyecto
 
-A partir de la inspección de los archivos incluidos en el repositorio, se identifica la siguiente arquitectura:
 
 ```text
 Tema3-CreacionTareas/
