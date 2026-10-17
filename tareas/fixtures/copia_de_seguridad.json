@@ -1,0 +1,1802 @@
+[
+{
+  "model": "tareas.usuario",
+  "pk": 1,
+  "fields": {
+    "nombre": "Usuario 1",
+    "correo_electronico": "usuario1@ejemplo.com",
+    "contrasena": "Clave1123",
+    "fecha_registro": "2026-10-17T17:49:15.199Z",
+    "proyectos_asignados": [
+      30
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 2,
+  "fields": {
+    "nombre": "Usuario 2",
+    "correo_electronico": "usuario2@ejemplo.com",
+    "contrasena": "Clave2123",
+    "fecha_registro": "2026-10-17T17:49:15.211Z",
+    "proyectos_asignados": [
+      1
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 3,
+  "fields": {
+    "nombre": "Usuario 3",
+    "correo_electronico": "usuario3@ejemplo.com",
+    "contrasena": "Clave3123",
+    "fecha_registro": "2026-10-17T17:49:15.222Z",
+    "proyectos_asignados": [
+      2
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 4,
+  "fields": {
+    "nombre": "Usuario 4",
+    "correo_electronico": "usuario4@ejemplo.com",
+    "contrasena": "Clave4123",
+    "fecha_registro": "2026-10-17T17:49:15.232Z",
+    "proyectos_asignados": [
+      3
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 5,
+  "fields": {
+    "nombre": "Usuario 5",
+    "correo_electronico": "usuario5@ejemplo.com",
+    "contrasena": "Clave5123",
+    "fecha_registro": "2026-10-17T17:49:15.241Z",
+    "proyectos_asignados": [
+      4
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 6,
+  "fields": {
+    "nombre": "Usuario 6",
+    "correo_electronico": "usuario6@ejemplo.com",
+    "contrasena": "Clave6123",
+    "fecha_registro": "2026-10-17T17:49:15.252Z",
+    "proyectos_asignados": [
+      5
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 7,
+  "fields": {
+    "nombre": "Usuario 7",
+    "correo_electronico": "usuario7@ejemplo.com",
+    "contrasena": "Clave7123",
+    "fecha_registro": "2026-10-17T17:49:15.263Z",
+    "proyectos_asignados": [
+      6
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 8,
+  "fields": {
+    "nombre": "Usuario 8",
+    "correo_electronico": "usuario8@ejemplo.com",
+    "contrasena": "Clave8123",
+    "fecha_registro": "2026-10-17T17:49:15.272Z",
+    "proyectos_asignados": [
+      7
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 9,
+  "fields": {
+    "nombre": "Usuario 9",
+    "correo_electronico": "usuario9@ejemplo.com",
+    "contrasena": "Clave9123",
+    "fecha_registro": "2026-10-17T17:49:15.283Z",
+    "proyectos_asignados": [
+      8
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 10,
+  "fields": {
+    "nombre": "Usuario 10",
+    "correo_electronico": "usuario10@ejemplo.com",
+    "contrasena": "Clave10123",
+    "fecha_registro": "2026-10-17T17:49:15.294Z",
+    "proyectos_asignados": [
+      9
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 11,
+  "fields": {
+    "nombre": "Usuario 11",
+    "correo_electronico": "usuario11@ejemplo.com",
+    "contrasena": "Clave11123",
+    "fecha_registro": "2026-10-17T17:49:15.305Z",
+    "proyectos_asignados": [
+      10
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 12,
+  "fields": {
+    "nombre": "Usuario 12",
+    "correo_electronico": "usuario12@ejemplo.com",
+    "contrasena": "Clave12123",
+    "fecha_registro": "2026-10-17T17:49:15.316Z",
+    "proyectos_asignados": [
+      11
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 13,
+  "fields": {
+    "nombre": "Usuario 13",
+    "correo_electronico": "usuario13@ejemplo.com",
+    "contrasena": "Clave13123",
+    "fecha_registro": "2026-10-17T17:49:15.331Z",
+    "proyectos_asignados": [
+      12
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 14,
+  "fields": {
+    "nombre": "Usuario 14",
+    "correo_electronico": "usuario14@ejemplo.com",
+    "contrasena": "Clave14123",
+    "fecha_registro": "2026-10-17T17:49:15.344Z",
+    "proyectos_asignados": [
+      13
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 15,
+  "fields": {
+    "nombre": "Usuario 15",
+    "correo_electronico": "usuario15@ejemplo.com",
+    "contrasena": "Clave15123",
+    "fecha_registro": "2026-10-17T17:49:15.352Z",
+    "proyectos_asignados": [
+      14
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 16,
+  "fields": {
+    "nombre": "Usuario 16",
+    "correo_electronico": "usuario16@ejemplo.com",
+    "contrasena": "Clave16123",
+    "fecha_registro": "2026-10-17T17:49:15.361Z",
+    "proyectos_asignados": [
+      15
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 17,
+  "fields": {
+    "nombre": "Usuario 17",
+    "correo_electronico": "usuario17@ejemplo.com",
+    "contrasena": "Clave17123",
+    "fecha_registro": "2026-10-17T17:49:15.370Z",
+    "proyectos_asignados": [
+      16
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 18,
+  "fields": {
+    "nombre": "Usuario 18",
+    "correo_electronico": "usuario18@ejemplo.com",
+    "contrasena": "Clave18123",
+    "fecha_registro": "2026-10-17T17:49:15.382Z",
+    "proyectos_asignados": [
+      17
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 19,
+  "fields": {
+    "nombre": "Usuario 19",
+    "correo_electronico": "usuario19@ejemplo.com",
+    "contrasena": "Clave19123",
+    "fecha_registro": "2026-10-17T17:49:15.398Z",
+    "proyectos_asignados": [
+      18
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 20,
+  "fields": {
+    "nombre": "Usuario 20",
+    "correo_electronico": "usuario20@ejemplo.com",
+    "contrasena": "Clave20123",
+    "fecha_registro": "2026-10-17T17:49:15.415Z",
+    "proyectos_asignados": [
+      19
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 21,
+  "fields": {
+    "nombre": "Usuario 21",
+    "correo_electronico": "usuario21@ejemplo.com",
+    "contrasena": "Clave21123",
+    "fecha_registro": "2026-10-17T17:49:15.435Z",
+    "proyectos_asignados": [
+      20
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 22,
+  "fields": {
+    "nombre": "Usuario 22",
+    "correo_electronico": "usuario22@ejemplo.com",
+    "contrasena": "Clave22123",
+    "fecha_registro": "2026-10-17T17:49:15.452Z",
+    "proyectos_asignados": [
+      21
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 23,
+  "fields": {
+    "nombre": "Usuario 23",
+    "correo_electronico": "usuario23@ejemplo.com",
+    "contrasena": "Clave23123",
+    "fecha_registro": "2026-10-17T17:49:15.462Z",
+    "proyectos_asignados": [
+      22
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 24,
+  "fields": {
+    "nombre": "Usuario 24",
+    "correo_electronico": "usuario24@ejemplo.com",
+    "contrasena": "Clave24123",
+    "fecha_registro": "2026-10-17T17:49:15.472Z",
+    "proyectos_asignados": [
+      23
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 25,
+  "fields": {
+    "nombre": "Usuario 25",
+    "correo_electronico": "usuario25@ejemplo.com",
+    "contrasena": "Clave25123",
+    "fecha_registro": "2026-10-17T17:49:15.482Z",
+    "proyectos_asignados": [
+      24
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 26,
+  "fields": {
+    "nombre": "Usuario 26",
+    "correo_electronico": "usuario26@ejemplo.com",
+    "contrasena": "Clave26123",
+    "fecha_registro": "2026-10-17T17:49:15.493Z",
+    "proyectos_asignados": [
+      25
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 27,
+  "fields": {
+    "nombre": "Usuario 27",
+    "correo_electronico": "usuario27@ejemplo.com",
+    "contrasena": "Clave27123",
+    "fecha_registro": "2026-10-17T17:49:15.502Z",
+    "proyectos_asignados": [
+      26
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 28,
+  "fields": {
+    "nombre": "Usuario 28",
+    "correo_electronico": "usuario28@ejemplo.com",
+    "contrasena": "Clave28123",
+    "fecha_registro": "2026-10-17T17:49:15.513Z",
+    "proyectos_asignados": [
+      27
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 29,
+  "fields": {
+    "nombre": "Usuario 29",
+    "correo_electronico": "usuario29@ejemplo.com",
+    "contrasena": "Clave29123",
+    "fecha_registro": "2026-10-17T17:49:15.526Z",
+    "proyectos_asignados": [
+      28
+    ]
+  }
+},
+{
+  "model": "tareas.usuario",
+  "pk": 30,
+  "fields": {
+    "nombre": "Usuario 30",
+    "correo_electronico": "usuario30@ejemplo.com",
+    "contrasena": "Clave30123",
+    "fecha_registro": "2026-10-17T17:49:15.535Z",
+    "proyectos_asignados": [
+      29
+    ]
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 1,
+  "fields": {
+    "nombre": "Proyecto 1",
+    "descripcion": "Descripcion del proyecto 1",
+    "duracion_estimada": 50.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 1
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 2,
+  "fields": {
+    "nombre": "Proyecto 2",
+    "descripcion": "Descripcion del proyecto 2",
+    "duracion_estimada": 19.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 2
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 3,
+  "fields": {
+    "nombre": "Proyecto 3",
+    "descripcion": "Descripcion del proyecto 3",
+    "duracion_estimada": 92.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 3
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 4,
+  "fields": {
+    "nombre": "Proyecto 4",
+    "descripcion": "Descripcion del proyecto 4",
+    "duracion_estimada": 24.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 4
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 5,
+  "fields": {
+    "nombre": "Proyecto 5",
+    "descripcion": "Descripcion del proyecto 5",
+    "duracion_estimada": 30.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 5
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 6,
+  "fields": {
+    "nombre": "Proyecto 6",
+    "descripcion": "Descripcion del proyecto 6",
+    "duracion_estimada": 4.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 6
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 7,
+  "fields": {
+    "nombre": "Proyecto 7",
+    "descripcion": "Descripcion del proyecto 7",
+    "duracion_estimada": 35.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 7
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 8,
+  "fields": {
+    "nombre": "Proyecto 8",
+    "descripcion": "Descripcion del proyecto 8",
+    "duracion_estimada": 94.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 8
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 9,
+  "fields": {
+    "nombre": "Proyecto 9",
+    "descripcion": "Descripcion del proyecto 9",
+    "duracion_estimada": 89.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 9
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 10,
+  "fields": {
+    "nombre": "Proyecto 10",
+    "descripcion": "Descripcion del proyecto 10",
+    "duracion_estimada": 100.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 10
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 11,
+  "fields": {
+    "nombre": "Proyecto 11",
+    "descripcion": "Descripcion del proyecto 11",
+    "duracion_estimada": 81.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 11
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 12,
+  "fields": {
+    "nombre": "Proyecto 12",
+    "descripcion": "Descripcion del proyecto 12",
+    "duracion_estimada": 9.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 12
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 13,
+  "fields": {
+    "nombre": "Proyecto 13",
+    "descripcion": "Descripcion del proyecto 13",
+    "duracion_estimada": 72.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 13
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 14,
+  "fields": {
+    "nombre": "Proyecto 14",
+    "descripcion": "Descripcion del proyecto 14",
+    "duracion_estimada": 49.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 14
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 15,
+  "fields": {
+    "nombre": "Proyecto 15",
+    "descripcion": "Descripcion del proyecto 15",
+    "duracion_estimada": 53.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 15
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 16,
+  "fields": {
+    "nombre": "Proyecto 16",
+    "descripcion": "Descripcion del proyecto 16",
+    "duracion_estimada": 61.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 16
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 17,
+  "fields": {
+    "nombre": "Proyecto 17",
+    "descripcion": "Descripcion del proyecto 17",
+    "duracion_estimada": 87.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 17
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 18,
+  "fields": {
+    "nombre": "Proyecto 18",
+    "descripcion": "Descripcion del proyecto 18",
+    "duracion_estimada": 46.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 18
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 19,
+  "fields": {
+    "nombre": "Proyecto 19",
+    "descripcion": "Descripcion del proyecto 19",
+    "duracion_estimada": 59.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 19
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 20,
+  "fields": {
+    "nombre": "Proyecto 20",
+    "descripcion": "Descripcion del proyecto 20",
+    "duracion_estimada": 84.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 20
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 21,
+  "fields": {
+    "nombre": "Proyecto 21",
+    "descripcion": "Descripcion del proyecto 21",
+    "duracion_estimada": 12.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 21
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 22,
+  "fields": {
+    "nombre": "Proyecto 22",
+    "descripcion": "Descripcion del proyecto 22",
+    "duracion_estimada": 55.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 22
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 23,
+  "fields": {
+    "nombre": "Proyecto 23",
+    "descripcion": "Descripcion del proyecto 23",
+    "duracion_estimada": 40.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 23
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 24,
+  "fields": {
+    "nombre": "Proyecto 24",
+    "descripcion": "Descripcion del proyecto 24",
+    "duracion_estimada": 31.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 24
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 25,
+  "fields": {
+    "nombre": "Proyecto 25",
+    "descripcion": "Descripcion del proyecto 25",
+    "duracion_estimada": 19.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 25
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 26,
+  "fields": {
+    "nombre": "Proyecto 26",
+    "descripcion": "Descripcion del proyecto 26",
+    "duracion_estimada": 82.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 26
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 27,
+  "fields": {
+    "nombre": "Proyecto 27",
+    "descripcion": "Descripcion del proyecto 27",
+    "duracion_estimada": 41.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 27
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 28,
+  "fields": {
+    "nombre": "Proyecto 28",
+    "descripcion": "Descripcion del proyecto 28",
+    "duracion_estimada": 28.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 28
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 29,
+  "fields": {
+    "nombre": "Proyecto 29",
+    "descripcion": "Descripcion del proyecto 29",
+    "duracion_estimada": 28.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 29
+  }
+},
+{
+  "model": "tareas.proyecto",
+  "pk": 30,
+  "fields": {
+    "nombre": "Proyecto 30",
+    "descripcion": "Descripcion del proyecto 30",
+    "duracion_estimada": 82.0,
+    "fecha_inicio": "2026-10-17",
+    "fecha_finalizacion": "2026-11-16",
+    "creador": 30
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 1,
+  "fields": {
+    "nombre": "Etiqueta 1"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 2,
+  "fields": {
+    "nombre": "Etiqueta 2"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 3,
+  "fields": {
+    "nombre": "Etiqueta 3"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 4,
+  "fields": {
+    "nombre": "Etiqueta 4"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 5,
+  "fields": {
+    "nombre": "Etiqueta 5"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 6,
+  "fields": {
+    "nombre": "Etiqueta 6"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 7,
+  "fields": {
+    "nombre": "Etiqueta 7"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 8,
+  "fields": {
+    "nombre": "Etiqueta 8"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 9,
+  "fields": {
+    "nombre": "Etiqueta 9"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 10,
+  "fields": {
+    "nombre": "Etiqueta 10"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 11,
+  "fields": {
+    "nombre": "Etiqueta 11"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 12,
+  "fields": {
+    "nombre": "Etiqueta 12"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 13,
+  "fields": {
+    "nombre": "Etiqueta 13"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 14,
+  "fields": {
+    "nombre": "Etiqueta 14"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 15,
+  "fields": {
+    "nombre": "Etiqueta 15"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 16,
+  "fields": {
+    "nombre": "Etiqueta 16"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 17,
+  "fields": {
+    "nombre": "Etiqueta 17"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 18,
+  "fields": {
+    "nombre": "Etiqueta 18"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 19,
+  "fields": {
+    "nombre": "Etiqueta 19"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 20,
+  "fields": {
+    "nombre": "Etiqueta 20"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 21,
+  "fields": {
+    "nombre": "Etiqueta 21"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 22,
+  "fields": {
+    "nombre": "Etiqueta 22"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 23,
+  "fields": {
+    "nombre": "Etiqueta 23"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 24,
+  "fields": {
+    "nombre": "Etiqueta 24"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 25,
+  "fields": {
+    "nombre": "Etiqueta 25"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 26,
+  "fields": {
+    "nombre": "Etiqueta 26"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 27,
+  "fields": {
+    "nombre": "Etiqueta 27"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 28,
+  "fields": {
+    "nombre": "Etiqueta 28"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 29,
+  "fields": {
+    "nombre": "Etiqueta 29"
+  }
+},
+{
+  "model": "tareas.etiqueta",
+  "pk": 30,
+  "fields": {
+    "nombre": "Etiqueta 30"
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 1,
+  "fields": {
+    "titulo": "Tarea 1",
+    "descripcion": "Descripcion de la tarea 1",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 1,
+    "proyecto": 1,
+    "etiquetas": [
+      1
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 2,
+  "fields": {
+    "titulo": "Tarea 2",
+    "descripcion": "Descripcion de la tarea 2",
+    "prioridad": 4,
+    "estado": "Completada",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 2,
+    "proyecto": 2,
+    "etiquetas": [
+      2
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 3,
+  "fields": {
+    "titulo": "Tarea 3",
+    "descripcion": "Descripcion de la tarea 3",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 3,
+    "proyecto": 3,
+    "etiquetas": [
+      3
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 4,
+  "fields": {
+    "titulo": "Tarea 4",
+    "descripcion": "Descripcion de la tarea 4",
+    "prioridad": 3,
+    "estado": "Progreso",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 4,
+    "proyecto": 4,
+    "etiquetas": [
+      4
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 5,
+  "fields": {
+    "titulo": "Tarea 5",
+    "descripcion": "Descripcion de la tarea 5",
+    "prioridad": 1,
+    "estado": "Completada",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 5,
+    "proyecto": 5,
+    "etiquetas": [
+      5
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 6,
+  "fields": {
+    "titulo": "Tarea 6",
+    "descripcion": "Descripcion de la tarea 6",
+    "prioridad": 4,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 6,
+    "proyecto": 6,
+    "etiquetas": [
+      6
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 7,
+  "fields": {
+    "titulo": "Tarea 7",
+    "descripcion": "Descripcion de la tarea 7",
+    "prioridad": 4,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 7,
+    "proyecto": 7,
+    "etiquetas": [
+      7
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 8,
+  "fields": {
+    "titulo": "Tarea 8",
+    "descripcion": "Descripcion de la tarea 8",
+    "prioridad": 5,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 8,
+    "proyecto": 8,
+    "etiquetas": [
+      8
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 9,
+  "fields": {
+    "titulo": "Tarea 9",
+    "descripcion": "Descripcion de la tarea 9",
+    "prioridad": 1,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 9,
+    "proyecto": 9,
+    "etiquetas": [
+      9
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 10,
+  "fields": {
+    "titulo": "Tarea 10",
+    "descripcion": "Descripcion de la tarea 10",
+    "prioridad": 1,
+    "estado": "Completada",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 10,
+    "proyecto": 10,
+    "etiquetas": [
+      10
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 11,
+  "fields": {
+    "titulo": "Tarea 11",
+    "descripcion": "Descripcion de la tarea 11",
+    "prioridad": 1,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 11,
+    "proyecto": 11,
+    "etiquetas": [
+      11
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 12,
+  "fields": {
+    "titulo": "Tarea 12",
+    "descripcion": "Descripcion de la tarea 12",
+    "prioridad": 3,
+    "estado": "Progreso",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 12,
+    "proyecto": 12,
+    "etiquetas": [
+      12
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 13,
+  "fields": {
+    "titulo": "Tarea 13",
+    "descripcion": "Descripcion de la tarea 13",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 13,
+    "proyecto": 13,
+    "etiquetas": [
+      13
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 14,
+  "fields": {
+    "titulo": "Tarea 14",
+    "descripcion": "Descripcion de la tarea 14",
+    "prioridad": 4,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 14,
+    "proyecto": 14,
+    "etiquetas": [
+      14
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 15,
+  "fields": {
+    "titulo": "Tarea 15",
+    "descripcion": "Descripcion de la tarea 15",
+    "prioridad": 5,
+    "estado": "Completada",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 15,
+    "proyecto": 15,
+    "etiquetas": [
+      15
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 16,
+  "fields": {
+    "titulo": "Tarea 16",
+    "descripcion": "Descripcion de la tarea 16",
+    "prioridad": 5,
+    "estado": "Progreso",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 16,
+    "proyecto": 16,
+    "etiquetas": [
+      16
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 17,
+  "fields": {
+    "titulo": "Tarea 17",
+    "descripcion": "Descripcion de la tarea 17",
+    "prioridad": 2,
+    "estado": "Completada",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 17,
+    "proyecto": 17,
+    "etiquetas": [
+      17
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 18,
+  "fields": {
+    "titulo": "Tarea 18",
+    "descripcion": "Descripcion de la tarea 18",
+    "prioridad": 3,
+    "estado": "Progreso",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 18,
+    "proyecto": 18,
+    "etiquetas": [
+      18
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 19,
+  "fields": {
+    "titulo": "Tarea 19",
+    "descripcion": "Descripcion de la tarea 19",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 19,
+    "proyecto": 19,
+    "etiquetas": [
+      19
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 20,
+  "fields": {
+    "titulo": "Tarea 20",
+    "descripcion": "Descripcion de la tarea 20",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 20,
+    "proyecto": 20,
+    "etiquetas": [
+      20
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 21,
+  "fields": {
+    "titulo": "Tarea 21",
+    "descripcion": "Descripcion de la tarea 21",
+    "prioridad": 3,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 21,
+    "proyecto": 21,
+    "etiquetas": [
+      21
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 22,
+  "fields": {
+    "titulo": "Tarea 22",
+    "descripcion": "Descripcion de la tarea 22",
+    "prioridad": 1,
+    "estado": "Progreso",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 22,
+    "proyecto": 22,
+    "etiquetas": [
+      22
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 23,
+  "fields": {
+    "titulo": "Tarea 23",
+    "descripcion": "Descripcion de la tarea 23",
+    "prioridad": 3,
+    "estado": "Completada",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 23,
+    "proyecto": 23,
+    "etiquetas": [
+      23
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 24,
+  "fields": {
+    "titulo": "Tarea 24",
+    "descripcion": "Descripcion de la tarea 24",
+    "prioridad": 5,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 24,
+    "proyecto": 24,
+    "etiquetas": [
+      24
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 25,
+  "fields": {
+    "titulo": "Tarea 25",
+    "descripcion": "Descripcion de la tarea 25",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 25,
+    "proyecto": 25,
+    "etiquetas": [
+      25
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 26,
+  "fields": {
+    "titulo": "Tarea 26",
+    "descripcion": "Descripcion de la tarea 26",
+    "prioridad": 2,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 26,
+    "proyecto": 26,
+    "etiquetas": [
+      26
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 27,
+  "fields": {
+    "titulo": "Tarea 27",
+    "descripcion": "Descripcion de la tarea 27",
+    "prioridad": 5,
+    "estado": "Pendiente",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 27,
+    "proyecto": 27,
+    "etiquetas": [
+      27
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 28,
+  "fields": {
+    "titulo": "Tarea 28",
+    "descripcion": "Descripcion de la tarea 28",
+    "prioridad": 2,
+    "estado": "Progreso",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 28,
+    "proyecto": 28,
+    "etiquetas": [
+      28
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 29,
+  "fields": {
+    "titulo": "Tarea 29",
+    "descripcion": "Descripcion de la tarea 29",
+    "prioridad": 4,
+    "estado": "Pendiente",
+    "completada": false,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 29,
+    "proyecto": 29,
+    "etiquetas": [
+      29
+    ]
+  }
+},
+{
+  "model": "tareas.tarea",
+  "pk": 30,
+  "fields": {
+    "titulo": "Tarea 30",
+    "descripcion": "Descripcion de la tarea 30",
+    "prioridad": 3,
+    "estado": "Progreso",
+    "completada": true,
+    "fecha_creacion": "2026-10-17",
+    "hora_vencimiento": "12:00:00",
+    "creador": 30,
+    "proyecto": 30,
+    "etiquetas": [
+      30
+    ]
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 1,
+  "fields": {
+    "tarea": 1,
+    "usuario": 2,
+    "observaciones": "Asignacion de la tarea 1",
+    "fecha_asignacion": "2026-10-17T17:49:16.474Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 2,
+  "fields": {
+    "tarea": 2,
+    "usuario": 3,
+    "observaciones": "Asignacion de la tarea 2",
+    "fecha_asignacion": "2026-10-17T17:49:16.505Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 3,
+  "fields": {
+    "tarea": 3,
+    "usuario": 4,
+    "observaciones": "Asignacion de la tarea 3",
+    "fecha_asignacion": "2026-10-17T17:49:16.535Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 4,
+  "fields": {
+    "tarea": 4,
+    "usuario": 5,
+    "observaciones": "Asignacion de la tarea 4",
+    "fecha_asignacion": "2026-10-17T17:49:16.567Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 5,
+  "fields": {
+    "tarea": 5,
+    "usuario": 6,
+    "observaciones": "Asignacion de la tarea 5",
+    "fecha_asignacion": "2026-10-17T17:49:16.598Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 6,
+  "fields": {
+    "tarea": 6,
+    "usuario": 7,
+    "observaciones": "Asignacion de la tarea 6",
+    "fecha_asignacion": "2026-10-17T17:49:16.631Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 7,
+  "fields": {
+    "tarea": 7,
+    "usuario": 8,
+    "observaciones": "Asignacion de la tarea 7",
+    "fecha_asignacion": "2026-10-17T17:49:16.660Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 8,
+  "fields": {
+    "tarea": 8,
+    "usuario": 9,
+    "observaciones": "Asignacion de la tarea 8",
+    "fecha_asignacion": "2026-10-17T17:49:16.692Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 9,
+  "fields": {
+    "tarea": 9,
+    "usuario": 10,
+    "observaciones": "Asignacion de la tarea 9",
+    "fecha_asignacion": "2026-10-17T17:49:16.724Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 10,
+  "fields": {
+    "tarea": 10,
+    "usuario": 11,
+    "observaciones": "Asignacion de la tarea 10",
+    "fecha_asignacion": "2026-10-17T17:49:16.755Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 11,
+  "fields": {
+    "tarea": 11,
+    "usuario": 12,
+    "observaciones": "Asignacion de la tarea 11",
+    "fecha_asignacion": "2026-10-17T17:49:16.786Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 12,
+  "fields": {
+    "tarea": 12,
+    "usuario": 13,
+    "observaciones": "Asignacion de la tarea 12",
+    "fecha_asignacion": "2026-10-17T17:49:16.816Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 13,
+  "fields": {
+    "tarea": 13,
+    "usuario": 14,
+    "observaciones": "Asignacion de la tarea 13",
+    "fecha_asignacion": "2026-10-17T17:49:16.846Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 14,
+  "fields": {
+    "tarea": 14,
+    "usuario": 15,
+    "observaciones": "Asignacion de la tarea 14",
+    "fecha_asignacion": "2026-10-17T17:49:16.881Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 15,
+  "fields": {
+    "tarea": 15,
+    "usuario": 16,
+    "observaciones": "Asignacion de la tarea 15",
+    "fecha_asignacion": "2026-10-17T17:49:16.912Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 16,
+  "fields": {
+    "tarea": 16,
+    "usuario": 17,
+    "observaciones": "Asignacion de la tarea 16",
+    "fecha_asignacion": "2026-10-17T17:49:16.943Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 17,
+  "fields": {
+    "tarea": 17,
+    "usuario": 18,
+    "observaciones": "Asignacion de la tarea 17",
+    "fecha_asignacion": "2026-10-17T17:49:16.976Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 18,
+  "fields": {
+    "tarea": 18,
+    "usuario": 19,
+    "observaciones": "Asignacion de la tarea 18",
+    "fecha_asignacion": "2026-10-17T17:49:17.003Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 19,
+  "fields": {
+    "tarea": 19,
+    "usuario": 20,
+    "observaciones": "Asignacion de la tarea 19",
+    "fecha_asignacion": "2026-10-17T17:49:17.033Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 20,
+  "fields": {
+    "tarea": 20,
+    "usuario": 21,
+    "observaciones": "Asignacion de la tarea 20",
+    "fecha_asignacion": "2026-10-17T17:49:17.064Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 21,
+  "fields": {
+    "tarea": 21,
+    "usuario": 22,
+    "observaciones": "Asignacion de la tarea 21",
+    "fecha_asignacion": "2026-10-17T17:49:17.095Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 22,
+  "fields": {
+    "tarea": 22,
+    "usuario": 23,
+    "observaciones": "Asignacion de la tarea 22",
+    "fecha_asignacion": "2026-10-17T17:49:17.125Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 23,
+  "fields": {
+    "tarea": 23,
+    "usuario": 24,
+    "observaciones": "Asignacion de la tarea 23",
+    "fecha_asignacion": "2026-10-17T17:49:17.232Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 24,
+  "fields": {
+    "tarea": 24,
+    "usuario": 25,
+    "observaciones": "Asignacion de la tarea 24",
+    "fecha_asignacion": "2026-10-17T17:49:17.265Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 25,
+  "fields": {
+    "tarea": 25,
+    "usuario": 26,
+    "observaciones": "Asignacion de la tarea 25",
+    "fecha_asignacion": "2026-10-17T17:49:17.298Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 26,
+  "fields": {
+    "tarea": 26,
+    "usuario": 27,
+    "observaciones": "Asignacion de la tarea 26",
+    "fecha_asignacion": "2026-10-17T17:49:17.329Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 27,
+  "fields": {
+    "tarea": 27,
+    "usuario": 28,
+    "observaciones": "Asignacion de la tarea 27",
+    "fecha_asignacion": "2026-10-17T17:49:17.365Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 28,
+  "fields": {
+    "tarea": 28,
+    "usuario": 29,
+    "observaciones": "Asignacion de la tarea 28",
+    "fecha_asignacion": "2026-10-17T17:49:17.400Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 29,
+  "fields": {
+    "tarea": 29,
+    "usuario": 30,
+    "observaciones": "Asignacion de la tarea 29",
+    "fecha_asignacion": "2026-10-17T17:49:17.453Z"
+  }
+},
+{
+  "model": "tareas.asignaciontarea",
+  "pk": 30,
+  "fields": {
+    "tarea": 30,
+    "usuario": 1,
+    "observaciones": "Asignacion de la tarea 30",
+    "fecha_asignacion": "2026-10-17T17:49:17.485Z"
+  }
+}
+]
