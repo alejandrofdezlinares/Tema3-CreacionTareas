@@ -23,4 +23,4 @@ Tema3-CreacionTareas/
 ├── manage.py                    # Script de línea de comandos de Django
 ├── seed.py                      # Script personalizado para la carga/poblado de datos
 ├── db.sqlite3                   # Base de datos SQLite local
-└── .gitignore                   # Archivo para ignorar archivos no deseados en Git
+└── .gitignore                   # Archivo para ignorar archivos no deseados (En este caso la base de datos)
