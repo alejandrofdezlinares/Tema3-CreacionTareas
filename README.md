@@ -1,4 +1,4 @@
-permite a los usuarios gestionar, organizar y realizar el seguimiento de sus tareas pendientes de forma sencilla y eficiente. A través de una interfaz interactiva y modular, la plataforma facilita la creación de nuevos ítems, la actualización de sus estados de avance y el almacenamiento persistente de la información mediante una base de datos integrada.
+Permite a los usuarios gestionar, organizar y realizar el seguimiento de sus tareas pendientes de forma sencilla y eficiente. A través de una interfaz interactiva y modular, la plataforma facilita la creación de nuevos ítems, la actualización de sus estados de avance y el almacenamiento persistente de la información mediante una base de datos integrada.
 
 📊 Análisis de la Estructura del Proyecto
 
